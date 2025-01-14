@@ -1,5 +1,4 @@
-# Front-end Developer Academy 
-# Project 1: Responsive Website Assignment
+# Engeto Front-end Developer Academy - Project 1: Responsive Website Assignment
 
 ## Project Overview
 The task is to develop a **simple responsive website** that adapts its layout based on the display width. In essence:
